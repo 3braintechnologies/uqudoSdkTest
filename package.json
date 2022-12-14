@@ -1,0 +1,12 @@
+{
+  "name": "react-native-uqudoid",
+  "title": "React Native UqudoId",
+  "version": "1.0.0",
+  "description": "Uqudo SDK react native module",
+  "main": "index.js",
+  "author": {
+    "name": "Uqudo",
+    "email": "hello@uqu.do"
+  },
+  "license": "MIT"
+}
